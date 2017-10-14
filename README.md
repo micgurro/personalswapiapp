@@ -16,7 +16,7 @@ Build a single page React application using the provided skeleton which allows a
 - [ ] List all StarWars films showing **title** and **release date** and link
     to list all characters in the film
 - [ ] Each item in the characters list should link to a character profile
-- [ ] Arrange the avaiable character info, employing basic rules of
+- [ ] Arrange the available character info, employing basic rules of
   - information hierachy
   - contrast
   - typography
