@@ -30,3 +30,10 @@ API](http://graphql.org/swapi-graphql/) and
 Check out [the setup instructions](setup.md) for a guide to getting started
 with this project scaffold.
 
+## On Completion
+When you feel you have completed this challenge, please open up a Pull Request
+and tag @penland365. In addition, please email your point of contact to let him
+or her know that you have completed.
+
+Good luck!
+
