@@ -2,4 +2,74 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-color: whitesmoke;
+  text-align: center;
+  color: white;
 }
+
+h1{
+  color: yellow;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h2{
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: yellow;
+  font-size: 1.60em;
+  padding: 5px;
+  transition: font-size 0.10s ease-out;
+}
+
+h3 a{
+  margin: 0;
+  text-shadow: 0;
+}
+
+a:visited{
+  color: lightgoldenrodyellow;
+}
+
+h3 a:visited{
+  color:yellow;
+}
+
+a:hover{
+  color:white;
+  font-size: 2em;
+  transition: font-size 0.25s ease-in;
+}
+
+h2 a:hover{
+  color:white;
+  transition: font-size 0.10s ease-in;
+}
+
+h3{
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+p{
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.home, .characterList, .bioCard{
+  background-color: darkgray;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75), 
+  0 6px 20px 0 
+  rgba(0, 0, 0, 0.19);
+
+}
+
+
+
+
